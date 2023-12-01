@@ -2,7 +2,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "target": "ES2022",
+    "target": "ES5",
     "allowJs": true,
     "moduleDetection": "force",
     "isolatedModules": true,
